@@ -6,9 +6,9 @@ This repo contains my solution to the [exercise](https://docs.google.com/documen
 
 ## Repo structure
 
-All code here is intended to run on Google Colab and contained inside `Exercise.ipynb`. You can simply click on "Open in Colab" and the notebook will open as intended. To test the code, you must run all of the notebook. This will download the dataset, treat it for information retrieval use and apply BM25 for information retrieval on example queries. The last notebook cell can be used to test the system on whatever query you choose.
+All code here is intended to run on Google Colab and contained inside `Exercise.ipynb`. You can simply click on "Open in Colab" and the notebook will open as intended. To test the code, you must run all of the notebook. This will download the dataset, treat it for information retrieval use and apply BM25 for information retrieval on example queries. The second to last notebook cell can be used to test the system on whatever query you choose or type.
 
-The report on the work and the exercise is in this README page.
+The report on the work and the exercise is in this README page. The `images/` file contains the screenshots from my conversations with ChatGPT for this project.
 
 ---
 ## Report
