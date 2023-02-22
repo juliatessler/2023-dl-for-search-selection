@@ -87,7 +87,7 @@ Everytime I used ChatGPT information or code is marked as such. Here are the pro
 
 I had never used ChatGPT to start a project, so this was quite interesting. I asked for some ideas on how to build an information retrieval system based on the CISI Collection dataset. The assistant told me to take the following steps:
 
-1. Familiarize with the dataset, along with the same link that was provided with project instructions (which didn't contain as much information on the dataset as I would have hoped for).
+1. Familiarize yourself with the dataset, along with the same link that was provided with project instructions (which didn't contain as much information on the dataset as I would have hoped for).
 1. Choose a programming language (maybe I should have told the assistant that I was about to build the project in Python).
 1. Choose a retrieval model (we already knew we were about to use BM25 for it).
 1. Preprocess documents.
@@ -99,13 +99,13 @@ All in all, it looked quite ok.
 
 ![ChatGPT 1st prompt](images/chatgpt1.jpeg)
 
-Right after that first question, I told the assistant that I wanted to use BM25 and it kind of gave me the same steps as before, but adapted for BM25. I didn't check the math it suggested here, but it looks simmilar to [what Wikipedia has on Okapi's BM25](https://en.wikipedia.org/wiki/Okapi_BM25).
+Right after that first question, I told the assistant that I wanted to use BM25 and it kind of gave me the same steps as before, but adapted for BM25. I didn't check the math it suggested here, but it looks similar to [what Wikipedia has on Okapi's BM25](https://en.wikipedia.org/wiki/Okapi_BM25).
 
 ![ChatGPT 2nd prompt](images/chatgpt2.jpeg)
 
 ### Help on code
 
-As mentioned, I didn't find that much information on CISI Collection dataset, so I asked the assistant how to open the data in Python for information retrieval use. It started spluting out code chunks with some explanation in between them. As it turned out, opening the dataset for use wasn't quite as the code suggested, but I was able to evolve from there.
+As mentioned, I didn't find that much information on the CISI Collection dataset, so I asked the assistant how to open the data in Python for information retrieval use. It started spitting out code chunks with some explanation in between them. As it turned out, opening the dataset for use wasn't quite as the code suggested, but I was able to evolve from there.
 
 ![ChatGPT 3rd prompt](images/chatgpt3.jpeg)
 
